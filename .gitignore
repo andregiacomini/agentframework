@@ -1,0 +1,16 @@
+# .NET build output
+**/bin/
+**/obj/
+**/artifacts/
+**/TestResults/
+
+# IDE files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
